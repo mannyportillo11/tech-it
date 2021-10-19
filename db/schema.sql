@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS techit_db;
+
+CREATE DATABASE techit_db;
