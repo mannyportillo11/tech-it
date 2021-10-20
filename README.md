@@ -9,12 +9,13 @@ Users need a backend system in order to track and maintain products based on tag
 - express.js
 - mysql2
 - handlebars
+- bcrypt
 
 
 ## Screenshot
 
 ## Deployed Application
-[Tech-it deployed application]
+[Tech-it Deployed Application](https://glacial-spire-09783.herokuapp.com/)
 
 ## Github Respository
 [Tech-it on Github](https://github.com/mannyportillo11/tech-it)
