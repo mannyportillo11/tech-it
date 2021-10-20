@@ -1,7 +1,7 @@
 # tech-it
 
 ## Motivation
-Users need a backend system in order to track and maintain products based on tags and categories. The ability to maintain these atttributes will help ensure the accuracy of price, stock, and other needed information.
+Users need am application to discuss technology via a live tech blog, where they can log in and add comments.
 
 ## Tools
 - node.js
@@ -13,6 +13,8 @@ Users need a backend system in order to track and maintain products based on tag
 
 
 ## Screenshot
+### Deployed Application
+
 
 ## Deployed Application
 [Tech-it Deployed Application](https://glacial-spire-09783.herokuapp.com/)
