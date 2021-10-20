@@ -5,7 +5,7 @@ Users need am application to discuss technology via a live tech blog, where they
 
 ## Tools
 - node.js
-- sequalize
+- sequalizeA
 - express.js
 - mysql2
 - handlebars
